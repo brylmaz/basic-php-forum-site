@@ -1,0 +1,21 @@
+.c {
+    width: 100%;
+    min-width: 100%;
+}
+
+.carousel-inner {
+    width: 100%;
+    min-width: 100%;
+    height: auto;
+    max-height: 400px !important;
+}
+
+.brs {
+margin-left: 15px;
+margin-right: 15px;
+}
+
+.alert{
+    margin-top: 10px;
+    height: 80px;
+}
